@@ -1,4 +1,4 @@
-package com.NullBank.NullBank;
+package com.demo.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
